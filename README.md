@@ -4,6 +4,7 @@
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -11,6 +12,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -18,6 +20,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -25,6 +28,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -32,6 +36,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -39,6 +44,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -46,6 +52,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -53,6 +60,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -60,6 +68,7 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
 
@@ -67,5 +76,6 @@ CONTRA:
 
 PRO:
 * ...
+  
 CONTRA:
 - ...
