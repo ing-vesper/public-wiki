@@ -1,5 +1,7 @@
 # Java Debate
 
+Pagina evenimentului: <https://events.playtika.com/java-debate-meetup>
+
 ## Project Rector vs Virtual Threads
 
 PRO:
